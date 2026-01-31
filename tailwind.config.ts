@@ -1,0 +1,115 @@
+import type { Config } from "tailwindcss";
+
+export default {
+  content: [
+    "./pages/**/*.{js,ts,jsx,tsx,mdx}",
+    "./components/**/*.{js,ts,jsx,tsx,mdx}",
+    "./app/**/*.{js,ts,jsx,tsx,mdx}",
+  ],
+  theme: {
+    extend: {
+      colors: {
+        primary: {
+          50: "#FFF8E1",
+          100: "#FFECB3",
+          200: "#FFE082",
+          300: "#FFD54F",
+          400: "#FFCA28",
+          500: "#FFC107",
+          600: "#FFB300",
+          700: "#FFA000",
+          800: "#FF8F00",
+          900: "#FF6F00",
+        },
+        secondary: {
+          50: "#FBE9E7",
+          100: "#FFCCBC",
+          200: "#FFAB91",
+          300: "#FF8A65",
+          400: "#FF7043",
+          500: "#FF5722",
+          600: "#F4511E",
+          700: "#E64A19",
+          800: "#D84315",
+          900: "#BF360C",
+        },
+        terracotta: {
+          50: "#FDF5F3",
+          100: "#F9E6E0",
+          200: "#F4CEC1",
+          300: "#E8A892",
+          400: "#D87B5E",
+          500: "#C85A3A",
+          600: "#B4432A",
+          700: "#963626",
+          800: "#7C2F24",
+          900: "#662A22",
+        },
+        neutral: {
+          50: "#FAFAF9",
+          100: "#F5F5F4",
+          200: "#E7E5E4",
+          300: "#D6D3D1",
+          400: "#A8A29E",
+          500: "#78716C",
+          600: "#57534E",
+          700: "#44403C",
+          800: "#292524",
+          900: "#1C1917",
+        },
+        success: {
+          50: "#F0FDF4",
+          500: "#22C55E",
+          700: "#15803D",
+        },
+        warning: {
+          50: "#FFFBEB",
+          500: "#F59E0B",
+          700: "#B45309",
+        },
+        error: {
+          50: "#FEF2F2",
+          500: "#EF4444",
+          700: "#B91C1C",
+        },
+        info: {
+          50: "#EFF6FF",
+          500: "#3B82F6",
+          700: "#1D4ED8",
+        },
+      },
+      fontFamily: {
+        heading: ["'Poppins'", "sans-serif"],
+        body: ["'Inter'", "sans-serif"],
+        mono: ["'JetBrains Mono'", "monospace"],
+      },
+      fontSize: {
+        xs: ["0.75rem", { lineHeight: "1.4" }],
+        sm: ["0.875rem", { lineHeight: "1.5" }],
+        base: ["1rem", { lineHeight: "1.5" }],
+        lg: ["1.125rem", { lineHeight: "1.6" }],
+        xl: ["1.25rem", { lineHeight: "1.4" }],
+        "2xl": ["1.5rem", { lineHeight: "1.35" }],
+        "3xl": ["1.875rem", { lineHeight: "1.3" }],
+        "4xl": ["2.25rem", { lineHeight: "1.25" }],
+        "5xl": ["3rem", { lineHeight: "1.2" }],
+        "6xl": ["3.75rem", { lineHeight: "1.15" }],
+        "7xl": ["4.5rem", { lineHeight: "1.1" }],
+      },
+      boxShadow: {
+        card: "0 4px 12px rgba(0, 0, 0, 0.08)",
+        hover: "0 8px 24px rgba(0, 0, 0, 0.12)",
+      },
+      keyframes: {
+        shimmer: {
+          "0%": { backgroundPosition: "-200% 0" },
+          "100%": { backgroundPosition: "200% 0" },
+        },
+      },
+      animation: {
+        shimmer: "shimmer 2s infinite",
+      },
+    },
+  },
+  plugins: [],
+} satisfies Config;

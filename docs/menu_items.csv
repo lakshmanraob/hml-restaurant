@@ -1,0 +1,101 @@
+Category,Item Name,Description,Price,Badge
+Appetizer,Paneer Tikka,Marinated cottage cheese cubes grilled in tandoor,280 rs,Best Seller
+Appetizer,Hara Bhara Kabab,Spiced spinach and green pea patties,220 rs,Healthy
+Appetizer,Chicken 65,Spicy deep-fried chicken tempered with curry leaves,320 rs,Spicy
+Appetizer,Samosa,Crispy pastry filled with spiced potatoes and peas,40 rs,Classic
+Appetizer,Gobi Manchurian,Crispy cauliflower tossed in soy garlic sauce,240 rs,Indo-Chinese
+Appetizer,Onion Bhaji,Deep fried onion fritters with gram flour,120 rs,Crispy
+Appetizer,Murg Malai Tikka,Chicken kebabs marinated in cream and cheese,350 rs,Mild
+Appetizer,Fish Amritsari,Gram flour battered fried fish with carom seeds,380 rs,Must Try
+Appetizer,Veg Spring Rolls,Crispy rolls stuffed with minced vegetables,180 rs,Crunchy
+Appetizer,Dahi Ke Sholay,Bread rolls stuffed with hung curd and spices,260 rs,Chef Special
+Main Dish,Butter Chicken,Charcoal grilled chicken in creamy tomato gravy,450 rs,Popular
+Main Dish,Paneer Butter Masala,Cottage cheese in a rich tomato and butter sauce,340 rs,Classic
+Main Dish,Dal Makhani,Slow cooked black lentils with cream and butter,280 rs,Signature
+Main Dish,Chole Bhature,Spicy chickpeas served with fried leavened bread,220 rs,Heavy
+Main Dish,Palak Paneer,Cottage cheese cubes in a smooth spinach puree,320 rs,Healthy
+Main Dish,Mutton Rogan Josh,Traditional Kashmiri lamb curry with red chilies,550 rs,Hot
+Main Dish,Kadai Veg,Mixed vegetables cooked in a spicy tomato gravy,260 rs,Spicy
+Main Dish,Bhindi Do Pyaza,Okra cooked with double the amount of onions,220 rs,Home Style
+Main Dish,Chicken Tikka Masala,Grilled chicken chunks in a spicy onion gravy,420 rs,Hot
+Main Dish,Malai Kofta,Fried potato and paneer balls in a creamy sauce,360 rs,Sweetish
+Main Dish,Egg Curry,Boiled eggs simmered in a spicy onion tomato base,240 rs,Spicy
+Main Dish,Aloo Gobi,Potato and cauliflower tossed with turmeric and ginger,200 rs,Classic
+Main Dish,Chicken Chettinad,Fiery South Indian chicken curry with pepper,440 rs,Very Spicy
+Main Dish,Baingan Bharta,Smoked mashed eggplant cooked with green peas,240 rs,Smoky
+Main Dish,Kadhai Paneer,Paneer cooked with bell peppers and ground spices,340 rs,Spicy
+Main Dish,Prawns Curry,Fresh prawns cooked in coconut milk and tamarind,580 rs,Seafood
+Main Dish,Methi Matar Malai,Green peas and fenugreek in a creamy white gravy,310 rs,Mild
+Main Dish,Chicken Jalfrezi,Chicken stir-fried with peppers and onions,410 rs,Tangy
+Main Dish,Rajma Chawal,Red kidney beans curry served with steamed rice,180 rs,Comfort Food
+Main Dish,Dum Aloo,Baby potatoes slow cooked in a yogurt based gravy,280 rs,Spicy
+Main Dish,Mutton Rara,Minced mutton and chunks cooked together in spices,580 rs,Heavy
+Main Dish,Veg Jalfrezi,Assorted vegetables stir fried in a tangy sauce,250 rs,Tangy
+Main Dish,Chicken Saagwala,Chicken cooked with fresh spinach and spices,430 rs,Nutritious
+Main Dish,Fish Moilee,Kerala style fish curry in coconut milk,520 rs,Mild
+Main Dish,Mushroom Do Pyaza,Button mushrooms tossed with plenty of onions,290 rs,Savory
+Main Dish,Lauki Kofta,Bottle gourd dumplings in a light tomato gravy,210 rs,Light
+Main Dish,Shahi Paneer,Royal cottage cheese in a white cashew gravy,370 rs,Rich
+Main Dish,Chicken Do Pyaza,Chicken curry with caramelized onions,410 rs,Classic
+Main Dish,Veg Kolhapuri,Super spicy mixed vegetable curry from Maharashtra,280 rs,Very Hot
+Main Dish,Paneer Lababdar,Paneer in a thick tomato and onion cream sauce,350 rs,Delicious
+Rice & Biryani,Veg Biryani,Fragrant basmati rice cooked with garden veggies,280 rs,Aromatic
+Rice & Biryani,Chicken Dum Biryani,Slow cooked rice and chicken with saffron,380 rs,Legendary
+Rice & Biryani,Mutton Biryani,Tender goat meat layered with spiced rice,520 rs,Rich
+Rice & Biryani,Jeera Rice,Basmati rice tempered with cumin seeds,160 rs,Light
+Rice & Biryani,Egg Biryani,Fragrant rice cooked with boiled eggs and spices,260 rs,Tasty
+Rice & Biryani,Prawn Biryani,Basmati rice cooked with marinated prawns,590 rs,Exotic
+Rice & Biryani,Steamed Rice,Plain long grain basmati rice,120 rs,Basic
+Rice & Biryani,Lemon Rice,South Indian style tangy tempering rice,180 rs,Zesty
+Rice & Biryani,Kashmiri Pulao,Sweet rice with dried fruits and nuts,310 rs,Sweet
+Rice & Biryani,Hyderabadi Chicken Biryani,Authentic spicy dum biryani from Hyderabad,420 rs,Hot
+Breads,Tandoori Roti,Whole wheat bread baked in clay oven,20 rs,Hot
+Breads,Butter Naan,Leavened flour bread glazed with butter,60 rs,Soft
+Breads,Garlic Naan,Naan topped with minced garlic and herbs,80 rs,Flavorful
+Breads,Lachha Paratha,Multi-layered whole wheat flaky bread,50 rs,Crispy
+Breads,Missi Roti,Gram flour bread with spices and onions,45 rs,Healthy
+Breads,Stuffed Kulcha,Bread stuffed with potato or onion,90 rs,Filling
+Breads,Puri,Deep fried puffed whole wheat bread,30 rs,Hot
+Breads,Rumali Roti,Paper thin soft bread,50 rs,Soft
+Breads,Cheese Garlic Naan,Naan stuffed with cheese and topped with garlic,120 rs,Cheesy
+Breads,Aloo Paratha,Flatbread stuffed with spiced mashed potatoes,80 rs,Breakfast King
+South Indian,Plain Dosa,Crispy rice and lentil crepe,120 rs,Crispy
+South Indian,Masala Dosa,Crepe stuffed with spiced potato mash,160 rs,Popular
+South Indian,Idli Sambhar,Steamed rice cakes served with lentil soup,100 rs,Healthy
+South Indian,Medhu Vada,Deep fried savory lentil donuts,110 rs,Crunchy
+South Indian,Onion Uttapam,Thick rice pancake topped with onions,140 rs,Classic
+South Indian,Rava Masala Dosa,Crispy semolina crepe with potato filling,180 rs,Crunchy
+South Indian,Mysore Masala Dosa,Dosa with a spicy red chutney layer,190 rs,Spicy
+South Indian,Upma,Savory semolina porridge with veggies,90 rs,Light
+South Indian,Appam with Stew,Fermented rice pancakes with veg stew,250 rs,Authentic
+South Indian,Pesarattu,Green gram crepe from Andhra Pradesh,150 rs,Nutritious
+Sides,Mixed Veg Raita,Yogurt with chopped vegetables and spices,90 rs,Cooling
+Sides,Boondi Raita,Yogurt with crispy gram flour pearls,80 rs,Classic
+Sides,Green Salad,Fresh garden vegetables sliced,70 rs,Fresh
+Sides,Roasted Papad,Crispy lentil cracker,20 rs,Crunchy
+Sides,Masala Papad,Papad topped with chopped onions and tomatoes,40 rs,Tangy
+Sides,Mango Pickle,Spicy and tangy raw mango preserve,15 rs,Zesty
+Dessert,Gulab Jamun,Deep fried milk solids in sugar syrup,80 rs,Sweet
+Dessert,Rasmalai,Soft cottage cheese patties in saffron milk,120 rs,Delicate
+Dessert,Gajar Halwa,Warm carrot pudding with nuts and khoya,150 rs,Seasonal
+Dessert,Kaju Katli,Prepared with kaju and milk,20 rs,Delicious
+Dessert,Kulfi,Traditional Indian dense ice cream,90 rs,Cooling
+Dessert,Jalebi,Deep fried swirls soaked in sugar syrup,100 rs,Crispy
+Dessert,Rasgulla,Soft spongy balls in light sugar syrup,70 rs,Light
+Dessert,Moong Dal Halwa,Rich lentil pudding cooked in ghee,180 rs,Rich
+Dessert,Phirni,Ground rice pudding with cardamom,110 rs,Classic
+Dessert,Shahi Tukda,Fried bread soaked in rabri and syrup,140 rs,Royal
+Beverages,Masala Chai,Indian tea brewed with ginger and spices,40 rs,Essential
+Beverages,Sweet Lassi,Thick churned yogurt drink with sugar,90 rs,Refreshing
+Beverages,Mango Lassi,Yogurt drink blended with mango pulp,120 rs,Favorite
+Beverages,Buttermilk (Chaas),Salted yogurt drink with cumin,60 rs,Cooling
+Beverages,Cold Coffee,Blended coffee with milk and ice cream,150 rs,Sweet
+Beverages,Fresh Lime Soda,Lemon juice with soda and salt/sugar,70 rs,Zesty
+Beverages,Jal Jeera,Tangy cumin water with mint,50 rs,Digestive
+Street Food,Pani Puri,Crispy hollow balls with spicy water,60 rs,Must Try
+Street Food,Pav Bhaji,Mashed veg curry served with buttered buns,160 rs,Classic
+Street Food,Aloo Tikki Chaat,Fried potato patties topped with yogurt and chutney,120 rs,Tangy
+Street Food,Papdi Chaat,Crispy flour crackers with yogurt and spices,110 rs,Crunchy
+Street Food,Vada Pav,Mumbai style spicy potato burger,50 rs,Quick Bite
+Street Food,Bhel Puri,Puffed rice mix with chutneys and sev,80 rs,Light
+Street Food,Dahi Puri,Puffed shells filled with sweet yogurt and chutneys,100 rs,Sweet & Tangy
