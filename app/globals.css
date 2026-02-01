@@ -87,4 +87,46 @@ body {
   .input {
     @apply w-full px-4 py-3 border border-neutral-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-200 focus:border-primary-500 transition-all;
   }
+
+  /* Menu Book Styles */
+  .menu-book-bg {
+    background: linear-gradient(to bottom, #fefaf6, #fdf8f3);
+    /* Parchment/cream color for authentic menu feel */
+  }
+
+  .menu-book-border {
+    border: 2px solid #d4af37; /* Gold border */
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.08);
+  }
+
+  .menu-book-spine {
+    /* Center line visual (desktop only) - resembles book binding */
+    width: 4px;
+    background: linear-gradient(to bottom, #8b4513, #654321, #8b4513);
+    box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.4), 0 0 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .menu-item-title {
+    font-family: 'Poppins', serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #2c1810;
+    line-height: 1.4;
+  }
+
+  .menu-item-description {
+    font-family: 'Inter', sans-serif;
+    font-size: 0.875rem;
+    color: #5a4a42;
+    font-style: italic;
+    line-height: 1.5;
+  }
+
+  .menu-item-price {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: #c85a3a; /* Terracotta */
+  }
 }

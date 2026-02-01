@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "title": "Live Music Fridays",
+    "date": "Every Friday",
+    "time": "7:00 PM - 10:00 PM",
+    "description": "Enjoy authentic Indian live music performances while savoring your favorite dishes. Experience traditional instruments and melodies that bring the spirit of India to life.",
+    "type": "music",
+    "recurring": true
+  },
+  {
+    "id": "2",
+    "title": "Diwali Festival Special",
+    "date": "November 1, 2024",
+    "time": "6:00 PM - 11:00 PM",
+    "description": "Celebrate the Festival of Lights with special festive menu, traditional sweets, and decorative ambiance. Join us for an unforgettable evening of lights, music, and authentic Indian flavors.",
+    "type": "festival"
+  },
+  {
+    "id": "3",
+    "title": "South Indian Food Festival",
+    "date": "October 15-20, 2024",
+    "time": "11:00 AM - 10:00 PM",
+    "description": "A week-long celebration of South Indian cuisine featuring special dosas, idlis, uttapams, and authentic Kerala delicacies. Meet our South Indian chef and learn about regional specialties.",
+    "type": "cultural"
+  },
+  {
+    "id": "4",
+    "title": "Holi Colors Celebration",
+    "date": "March 25, 2024",
+    "time": "12:00 PM - 9:00 PM",
+    "description": "Join us for the Festival of Colors with special Holi menu, traditional thandai, and vibrant decorations. Family-friendly celebration with colors, music, and delicious food.",
+    "type": "festival"
+  }
+]
