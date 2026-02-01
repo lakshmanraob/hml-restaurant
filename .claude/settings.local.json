@@ -19,7 +19,9 @@
       "Bash(netstat:*)",
       "Bash(findstr:*)",
       "Bash(dir \"C:\\\\Users\\\\lakshman\\\\repos\\\\hmlrestaurant\\\\public\")",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(npm update:*)",
+      "Bash(npm run build:*)"
     ]
   }
 }

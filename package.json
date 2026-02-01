@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "dotenv": "^17.2.3",
-    "next": "^15",
+    "next": "^15.5.11",
     "pexels": "^1.4.0",
     "react": "^19",
     "react-dom": "^19",
