@@ -11,6 +11,7 @@
     "convert-images": "tsx .claude/skills/image-to-webp/scripts/convert.ts"
   },
   "dependencies": {
+    "@n8n/chat": "^1.7.0",
     "dotenv": "^17.2.3",
     "next": "^15.5.11",
     "pexels": "^1.4.0",

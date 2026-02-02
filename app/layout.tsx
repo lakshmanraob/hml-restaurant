@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { LayoutWrapper } from "@/components/layout/LayoutWrapper";
+import { ChatBot } from "@/components/features/ChatBot";
 
 export const metadata: Metadata = {
   title: "HML Restaurant - Authentic Indian Cuisine in Bangalore",
@@ -17,6 +18,7 @@ export default function RootLayout({
     <html lang="en">
       <body>
         <LayoutWrapper>{children}</LayoutWrapper>
+        <ChatBot />
       </body>
     </html>
   );
